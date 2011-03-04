@@ -1,4 +1,5 @@
 #summary PDF Analisys example
+#labels xmlanalysis
 
 = Parse =
 First thing to do is to lift the PDF structure to XML. Thats done with somethink like this...
@@ -25,7 +26,9 @@ Now the PDF is in XML and you may query it using XPATH. CHeck out the xpath basi
 
 ==PDF-XPATH examples==
 ===All objects in the tree===
-{{ xml_pdf.xpath('//') }}
+{{{ 
+xml_pdf.xpath('//') 
+}}}
 
 ===Get all indirect objects===
 {{{
