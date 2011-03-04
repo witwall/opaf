@@ -39,7 +39,7 @@
 ==Analysis library==
 ||Expand everything ||DONE||
 ||Parse Object Streams ||DONE||
-||Canonize names ||[PART]||
+||Canonize names ||PART||
 ||Check PDF/A compliant?? ||*TODO*||
 ||Dump everything to separated files ||*TODO*||
 ||Regenerate the resultant PDF ||DONE||
