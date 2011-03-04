@@ -3,45 +3,45 @@
 
 =The FEATURE/TODO list (help!)=
 ==Scanner/Lexer==
-||Scan basic tokens ||[done]||
-||Skip coments ||[done]||
-||Position tracking ||[done]||
+||Scan basic tokens ||DONE||
+||Skip coments ||DONE||
+||Position tracking ||DONE||
 
 ==Parser==
-||Rrules for basic types ||[done]||
-||Rules for complete filestruct ||[done]||
-||Brute force parser ||[done]||
-||Xref based parser ||[TODO]||
-||Generate XML ||[done]||
+||Rrules for basic types ||DONE||
+||Rules for complete filestruct ||DONE||
+||Brute force parser ||DONE||
+||Xref based parser ||*TODO*||
+||Generate XML ||DONE||
 
 ==Xrefs==
-||Decode normal xrefs ||[done]||
-||Decode XrefStream? ||[done]||
-||Check consistency ||[TODO]||
+||Decode normal xrefs ||DONE||
+||Decode XrefStream? ||DONE||
+||Check consistency ||*TODO*||
 
 ==GRAPH==
-||Fix references pass ||[done]||
-||Plot the logical structure ||[done]||
+||Fix references pass ||DONE||
+||Plot the logical structure ||DONE||
 
 ==Filters==
-||FlateDecode? ||[done]||
-||LZWDecode ||[done]||
-||- /Earlystop ||[TODO]||
-||ASCIIHexDecode ||[done]||
-||ASCII85Decode ||[done]||
-||RunLengthDecode? ||[done]||
-||Predictors 1...12 ||[done]||
-||JPEG2000 ||[TODO]||
-||DCTDecode ||[TODO]||
-||CCITTFax ||[TODO]||
-||Crypt ||[TODO]||
+||FlateDecode? ||DONE||
+||LZWDecode ||DONE||
+||- /Earlystop ||*TODO*||
+||ASCIIHexDecode ||DONE||
+||ASCII85Decode ||DONE||
+||RunLengthDecode? ||DONE||
+||Predictors 1...12 ||DONE||
+||JPEG2000 ||*TODO*||
+||DCTDecode ||*TODO*||
+||CCITTFax ||*TODO*||
+||Crypt ||*TODO*||
 
 ==Analysis library==
-||Expand everything ||[done]||
-||Parse Object Streams ||[done]||
+||Expand everything ||DONE||
+||Parse Object Streams ||DONE||
 ||Canonize names ||[PART]||
-||Check PDF/A compliant?? ||[TODO]||
-||Dump everything to separated files ||[TODO]||
-||Regenerate the resultant PDF ||[done]||
-||Regenerate the PDF as a miniPDF.py script ||[done]||
-||Document the XML struct(DTD) ||[TODO]||
+||Check PDF/A compliant?? ||*TODO*||
+||Dump everything to separated files ||*TODO*||
+||Regenerate the resultant PDF ||DONE||
+||Regenerate the PDF as a miniPDF.py script ||DONE||
+||Document the XML struct(DTD) ||*TODO*||
