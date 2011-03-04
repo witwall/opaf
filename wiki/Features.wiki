@@ -2,28 +2,28 @@
 #labels Featured,TODO
 
 =The FEATURE/TODO list (help!)=
-||Scanner/Lexer||||
+==Scanner/Lexer==
 ||Scan basic tokens ||[done]||
 ||Skip coments ||[done]||
 ||Position tracking ||[done]||
 
-||Parser||||
+==Parser==
 ||Rrules for basic types ||[done]||
 ||Rules for complete filestruct ||[done]||
 ||Brute force parser ||[done]||
 ||Xref based parser ||[TODO]||
 ||Generate XML ||[done]||
 
-||Xrefs||||
+==Xrefs==
 ||Decode normal xrefs ||[done]||
 ||Decode XrefStream? ||[done]||
 ||Check consistency ||[TODO]||
 
-||GRAPH||||
+==GRAPH==
 ||Fix references pass ||[done]||
 ||Plot the logical structure ||[done]||
 
-||Filters||||
+==Filters==
 ||FlateDecode? ||[done]||
 ||LZWDecode ||[done]||
 ||- /Earlystop ||[TODO]||
@@ -36,7 +36,7 @@
 ||CCITTFax ||[TODO]||
 ||Crypt ||[TODO]||
 
-||Analysis library||||
+==Analysis library==
 ||Expand everything ||[done]||
 ||Parse Object Streams ||[done]||
 ||Canonize names ||[PART]||
