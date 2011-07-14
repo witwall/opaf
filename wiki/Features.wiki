@@ -44,4 +44,5 @@
 ||Dump everything to separated files ||*TODO*||
 ||Regenerate the resultant PDF ||DONE||
 ||Regenerate the PDF as a miniPDF.py script ||DONE||
-||Document the XML struct(DTD) ||*TODO*||
+||Document the XML struct(DTD/Schema) ||*TODO*||
+||Decrypt    ||PARTIAL||
